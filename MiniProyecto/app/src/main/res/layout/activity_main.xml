@@ -21,7 +21,8 @@
         android:textSize="18sp"
         android:textStyle="bold|italic"
         tools:layout_editor_absoluteX="103dp"
-        tools:layout_editor_absoluteY="202dp" />
+        tools:layout_editor_absoluteY="202dp"
+        android:textColor="white"/>
 
 
 
