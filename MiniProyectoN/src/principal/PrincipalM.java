@@ -22,8 +22,9 @@ public class PrincipalM {
         VentanaInicio ventana = new VentanaInicio();
         ventana.setVisible(true);
         ventana.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        ventana.pack();
         ventana.setLocationRelativeTo(null);
+        
+        
     }
     
 }
