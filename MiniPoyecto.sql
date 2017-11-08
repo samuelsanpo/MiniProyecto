@@ -17,6 +17,7 @@ Apellido varchar(20)not null,
 Direccion varchar(20)not null,
 email varchar(20)not null,
 Celular int(10)not null,
+Cedula int(10)not null,
 Primary key (idPaciente));
 
 
