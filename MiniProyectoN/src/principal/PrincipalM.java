@@ -21,8 +21,10 @@ public class PrincipalM {
         // TODO code application logic here
         VentanaInicio ventana = new VentanaInicio();
         ventana.setVisible(true);
-        ventana.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         ventana.setLocationRelativeTo(null);
+        ventana.pack();
+        ventana.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        
         
         
     }
